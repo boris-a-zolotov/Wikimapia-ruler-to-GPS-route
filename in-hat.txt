@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" 
+xmlns="http://www.topografix.com/GPX/1/0"
+creator="Free Pascal"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 
+http://www.topografix.com/GPX/1/0/gpx.xsd">
+
+<metadata>
+    <name> Automatically Generated Track </name>
+    <desc>- - - - - - - -</desc>
+    <author> <name> Boris Zolotov </name>
+	<link href="https://vk.com/boris.a.zolotov"> </link>
+    </author>
+    <link href="https://github.com/boris-a-zolotov"> </link>
+    <keywords> gpx, pascal, route, bicycle </keywords>
+</metadata>
