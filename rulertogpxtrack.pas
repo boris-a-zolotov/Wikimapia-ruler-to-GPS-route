@@ -32,7 +32,7 @@ until eof;
 
 writeln; writeln; writeln;
 writeln(tab, '<trk> <name>', trkName, '</name>');
-writeln(tab, '<desc>- - - - - - - -</desc>');
+writeln(tab, '<desc>- - - - - - - -</desc> <trkseg>');
 
 for i:=1 to n do begin;
 	writeln(tab, tab,
@@ -43,7 +43,7 @@ for i:=1 to n do begin;
 		'"> </trkpt>');
 end;
 
-writeln(tab, '</trk>');
+writeln(tab, '</trkseg> </trk>');
 writeln('</gpx>');
 close(input); close(output);
 end.
